@@ -1,4 +1,3 @@
-# TC-SG
 This is the source code of paper "Privacy-Preserving Triangle Counting in Signed Graphs".
 
 ## Getting Started
